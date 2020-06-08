@@ -3,7 +3,7 @@ body{
     margin:0;
     padding: 0;
 }
-#carousel-img{
+.carousel-img{
     height:100%;
     width:100%;
 }
